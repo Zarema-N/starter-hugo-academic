@@ -19,7 +19,7 @@ role: PhD in Agricultural Sciences
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Martin-Luther University Halle-Wittenberg
-    url: https://www.uni-halle.de/
+    url: https://www.uni-halle.de
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include agricultural land use change, land tenure institutions, land rights, and gender inequality.
